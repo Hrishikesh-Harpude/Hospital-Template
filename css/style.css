@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    /* width: 100%; */
+    /* height: 70px; */
+    
+}
+.menu{
+    /* width: 100%; */
+    /* height: 70px; */
+    background-color: black;
+}
+.navbar ul li{
+    display: inline;
+    position: relative;
+    z-index: 1;
+
+}
+.navbar li{
+    list-style: none;
+
+}
+
+.main{
+    background-image: url("..//images/background/h1_hero.png");
+    height: 500px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: 60% 100%;
+}
+.main p{
+    font-family: "Muli", sans-serif;
+}
+.main h1{
+    font-family: "Muli",sans-serif;
+}
+/* end of the session main */
+.about h1{
+    font-family: "Muli",sans-serif;
+}
+.btnone{
+    width: 70%;
+}
+.btnone1{
+    width: 90%;
+}
+/* end of the session about */
+.department{
+    background-color: #F3F9FE;
+    /* height: 300px; */
+}
+.department h1{
+    font-family: "Muli",sans-serif;
+}
+
+.dentist{
+    background-color: #42A3FB;
+    
+    font-family: "Muli",sans-serif;
+    color: white;
+}
+
+.gellery{
+    font-family: "Muli",sans-serif;
+
+}
+.img-1{
+    height: 500px;
+}
+.img-2{
+    height: 350px;
+}
+/* ENd Of the Session Gallery */
+.photo-grapher{
+    background-image: url("../images/background/section_bg01.png");
+    width: 100%;
+    height: 400px;
+}
+/* End of the session photographer */
+
+.doctor-header {
+    font-family: "Muli",sans-serif;
+
+}
+.one:hover{
+    background-color: #42A3FB;
+}
+/* End of the doctor  */
+
+.form{
+    background-color: #F7FDFF;
+}
+.appointment-header{
+    font-family: "Muli",sans-serif;
+
+}
+/* End of the Session Appointment */
+.news-header{
+    font-family: "Muli",sans-serif;
+
+}
+.contact{
+    background-color: #11141b;
+}
